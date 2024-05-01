@@ -1,2 +1,5 @@
 # Car_Rental_System
-This project aims to develop a comprehensive software solution for managing and automating various operations of a car rental company
+<br>This project aims to develop a comprehensive software solution for managing and automating various operations of a car rental company</br>
+<br>The system allows online registration by providing personal information and contact details. The project also allows uusers to perform various operations.</br>
+<br>This system automatically updates each and every records when it is required.</br>
+<br>For more details, please check the
